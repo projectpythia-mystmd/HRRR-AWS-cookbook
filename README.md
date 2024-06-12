@@ -8,6 +8,8 @@
 
 In this Project Pythia Cookbook, you will access and create a map from archived data from NCEP's High-Resolution Rapid Refresh (HRRR) model, which is served in an S3 bucket on AWS.
 
+Now using MyST!
+
 ## Motivation
 This cookbook provides the essential materials to learning how to work with gridded NCEP model output that is served on AWS' S3 buckets, in a data format called Zarr.
 
