@@ -10,3 +10,5 @@ dependencies:
   - zarr
   - s3fs
   - sphinx-pythia-theme
+  - mystmd
+  - nodejs
