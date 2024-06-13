@@ -1,8 +1,4 @@
 version: 1
-jupyter:
-    binder:
-      # url: https://binder.projectpythia.org
-      repo: ProjectPythia/HRRR-AWS-cookbook
 site:
   options:
     logo: notebooks/images/logos/pythia_logo-white-rtext.svg
@@ -33,3 +29,7 @@ project:
   abbreviations:
       GRIB: General Regularly-distributed Information in Binary
       HRRR: High-Resolution Rapid Refresh
+  jupyter:
+      binder:
+        # url: https://binder.projectpythia.org
+        repo: ProjectPythia/HRRR-AWS-cookbook
